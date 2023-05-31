@@ -8,3 +8,5 @@ To run this code locally:
 `cd hangman`
 
 `python main.py`
+
+Please feel free to suggest any kind of improvement.
